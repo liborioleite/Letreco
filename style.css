@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.buttons-letters{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+}
+
